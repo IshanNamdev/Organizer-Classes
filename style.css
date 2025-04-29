@@ -1,0 +1,260 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.page1{
+    height: auto;
+    width: 100%;
+    background-image: url(images/bg1.jpg);
+    background-size: cover;
+    overflow: hidden;
+   
+}
+
+.head{
+    display: flex;
+    height: 10rem;
+    
+}
+
+.logo img{
+    height: 4rem;
+    margin-top: 1.5rem;
+    margin-left: 1.1rem;
+}
+
+.name img{
+    height: 9rem;
+    margin-left: 20rem;
+    margin-top: 1rem;
+   stroke-width: 1rem;
+   
+}
+
+.about{
+    background-color: white;
+    height: 15rem;
+    width: 40rem;
+    margin-left: 13rem;
+    margin-top: 1rem;
+    border-radius: .5rem;
+}
+
+.about_me{
+    color: #3E6DA4;
+    font-style: bold;
+    font-weight: 900;
+    margin-left: 2rem;
+    
+}
+
+.text{
+    margin-left: 1.5rem;
+    padding: 1rem;
+}
+
+.visit{
+    margin-left: 13rem;
+    margin-top: 2rem;
+}
+.apps{
+    background-color: white;
+    height: 4rem;
+    width: 30rem;
+    border-radius: .5rem;
+    
+}
+.apps h1{
+    color: #3E6DA4;
+    position: relative;
+    top: .8rem;
+    text-align: center;
+    font-style: bold;
+}
+
+.image{
+    display: flex;
+    margin-left: 1rem;
+}
+.app{
+    margin-top: 1rem;
+  
+}
+
+.and{
+    height: 10rem;
+    background-color: white;
+    border-radius: 50%;
+    stroke: black;
+    stroke-width: 2rem;
+}
+
+.and img{
+    margin-top: .5rem;
+    height: 8rem;
+  
+}
+
+.app h2{
+    height: 2.5rem;
+    font-size: 2rem;
+    background-color: white;
+    margin-top: 2rem;
+   
+    border-radius: .3rem;
+    text-align: center;
+    color: #3E6DA4;
+}
+
+.web{
+   margin-left: 5rem;
+   position: relative;
+   bottom: 2rem;
+}
+
+.web h2{
+    background-color: white;
+    text-align: center;
+    color: #3E6DA4;
+    font-size: 2rem;
+    border-radius: .5rem;
+    position: relative;
+    bottom: 3.4rem;
+}
+
+.page2{
+    background-color: #01021b;
+}
+
+.why{
+    height: 3.5rem;
+    width: 32%;
+    background-color: white;
+    display: flex;
+    border-radius: .5rem;
+    align-items: center;
+    justify-content: center;
+    margin-left: 30rem;
+    
+}
+
+.icon img{
+    height: 4rem;
+    padding-top: .5rem;
+    padding-right: 1rem;
+}
+
+.org h2{
+    align-items: center;
+}
+
+.box{
+    display: flex;
+    margin-top: 2rem;
+    padding-top: 1rem;
+    box-sizing: border-box;
+}
+
+.box-mat{
+    
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 3rem;
+    border-radius: .5rem;
+    width: 33%;
+    height: 20rem;
+    background-color: white;
+}
+
+.box-mat h2{
+    color: #3E6DA4;
+    font-size: 1.8rem;
+    padding-left: 1rem;
+    font-style: bold;
+}
+
+.box-mat p{
+    height: 10rem;
+    width: 15rem;
+    margin-left: 2rem;
+}
+
+.new{
+    position: relative;
+    bottom: 5rem;
+    left: 2.5rem;
+}
+.box2 h2{
+    margin-left: 1.5rem;
+}
+
+.new2{
+    position: relative;
+    bottom: 5.7rem;
+}
+.box3 h2{
+    margin-left: 3rem;
+}
+
+.socailmedia{
+   margin-top: 5rem;
+}
+
+.both{
+    margin-top: 5rem;
+    margin-left: 5rem;
+    display: flex;
+    align-items: center;
+  
+}
+
+.our{
+    background-color: white;
+    height: 3rem;
+    width: 18rem;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    border-radius: .5rem;
+}
+
+.our h2{
+    font-size: 2rem;
+    margin-left: 1.8rem;
+    margin-top: .3rem;
+    color: #3E6DA4;
+}
+
+.social_med{
+    display: flex;
+
+}
+.med{
+    width: 5rem;
+    margin-top: 2rem;
+    
+    height: 4rem;
+}
+.med img{
+   
+    margin-left: 12rem;
+    height: 4rem;
+}
+
+.linkdin img{
+    margin-left: 12.5rem;
+}
+
+.whatsapp img{
+   position: relative;
+   right: 1.8rem;
+}
+
+.youtube img{
+    position: relative;
+    right: 4.3rem;
+    bottom: 2rem;
+    height: 8rem;
+}
